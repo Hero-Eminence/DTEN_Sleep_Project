@@ -148,5 +148,13 @@ To reproduce this project locally, follow these steps:
 - GitHub: [github.com/Hero-Eminence](https://github.com/Hero-Eminence)
 
 ## 🙏 Acknowledgements
-- **Daryl Tech & Educational Network (DTEN)** for providing the internship opportunity and Kaggle for the dataset.
-```
+
+I would like to express my sincere gratitude to the following:
+
+- **Daryl Tech & Educational Network (DTEN)** for providing this internship opportunity and the dataset used in this project.
+- **My mentors at DTEN** for their guidance, feedback, and support throughout the program.
+- **Kaggle** for being an invaluable resource for datasets and data science inspiration.
+- **The open-source community** behind Python, Pandas, Scikit-learn, Plotly, and Dash — the tools that made this project possible.
+- **My fellow interns** for the collaboration and shared learning experience.
+
+This project would not have been possible without their support and resources.
