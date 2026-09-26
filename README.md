@@ -120,7 +120,7 @@ To reproduce this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/[Hero-Eminence]/DTEN_Sleep_Project.git
+   git clone https://github.com/Hero-Eminence/DTEN_Sleep_Project.git
    cd DTEN_Sleep_Project
    ```
 
@@ -142,11 +142,11 @@ To reproduce this project locally, follow these steps:
 
 ## 👤 Author
 
-**[Herbert_Tetteh_Nyamedor]**
+**Herbert Tetteh Nyamedor**
 - Data Science & Analytics Intern at Daryl Tech & Educational Network (DTEN)
-- LinkedIn: [www.linkedin.com/in/herbert-tetteh-nyamedor-2375323a8]
-- GitHub: [Link to your GitHub profile]
+- LinkedIn: [linkedin.com/in/herbert-tetteh-nyamedor-2375323a8](https://www.linkedin.com/in/herbert-tetteh-nyamedor-2375323a8)
+- GitHub: [github.com/Hero-Eminence](https://github.com/Hero-Eminence)
 
 ## 🙏 Acknowledgements
-- **Daryl Tech & Educational Network (DTEN)** for providing the internship opportunity and **Kaggle** for the dataset.
+- **Daryl Tech & Educational Network (DTEN)** for providing the internship opportunity and Kaggle for the dataset.
 ```
