@@ -35,6 +35,7 @@ color_map = {
 
 # --- Initialize the Dash app ---
 app = dash.Dash(__name__)
+server = app.server
 app.title = "Sleep Debt Insights Dashboard"
 
 # --- Define the app layout ---
