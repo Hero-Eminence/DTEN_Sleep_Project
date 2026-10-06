@@ -146,6 +146,7 @@ To reproduce this project locally, follow these steps:
 - Data Science & Analytics Intern at Daryl Tech & Educational Network (DTEN)
 - LinkedIn: [linkedin.com/in/herbert-tetteh-nyamedor-2375323a8](https://www.linkedin.com/in/herbert-tetteh-nyamedor-2375323a8)
 - GitHub: [github.com/Hero-Eminence](https://github.com/Hero-Eminence)
+- Live Dashboard URL: (https://dten-sleep-project.onrender.com/)
 
 ## 🙏 Acknowledgements
 
